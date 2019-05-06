@@ -4,4 +4,4 @@ A collection of some of the projects/tasks I've completed from 'Automate The Bor
 
 ## Scripts
 
-- **_mapIt.py_** - A simple script to automatically open an address specified from the command line args. If there are no args, the script  uses the clipboard as the input address
+- **_mapIt.py_** - A simple script to automatically open an address in Google Maps, specified from the command line args. If there are no args, the script uses the clipboard as the input address.
